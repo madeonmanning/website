@@ -73,6 +73,9 @@ function Farmstand() {
           className="farmstand-intro-image hero-image"
         />
         <div className="farmstand-intro-text intro-text">
+          <p className='farmstand-announce'>
+            2026 Farmstands have wrapped! Check back in Spring 2027 for more info!
+          </p>
           <p>
             During the summer months of June through September join us at our home on Manning Avenue South in
             Woodbury, MN, for a delightful selection of homemade sourdough, fresh baked goods, and seasonal flowers.
